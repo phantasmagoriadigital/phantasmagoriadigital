@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/61656324/140605977-4fec2605-6150-4e8d-
 - W3C Design Tokens Focus group, imagining the future of design tokens
 
 #### 🤔 I’m looking for help with
-- Evoling our oppen source design system boilerplate
+- Evoling our open source design system boilerplate
 
 #### 📫 How to reach me: mike@phantasmagoria.in
 
