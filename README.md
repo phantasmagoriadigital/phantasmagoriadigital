@@ -2,7 +2,11 @@
 
 #### 🔭 I’m currently working on 
 - *building an open source, enterprise grade Design System Toolchain, called nextDS*, 
-- I'm also building a new multi-inspector for Figma Tokens
+- building a new multi-inspector for Figma Tokens with [@jansix](https://github.com/six7/figma-tokens)
+
+https://user-images.githubusercontent.com/61656324/140605977-4fec2605-6150-4e8d-b261-749a1d7c77ee.mov
+
+- helping [@cmarkacianfrani](https://github.com/markacianfrani/figma-vrt-app) building a Visual Regression Test tool for Figma
 
 #### 🌱 I’m currently learning about 
 - Petri nets
