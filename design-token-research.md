@@ -10,6 +10,7 @@
 
 A list of company design systems Design Tokens section
 
+- [Adobe Spectrum](https://spectrum.adobe.com/page/design-tokens/)
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/variables-colors)
 - [Comet (Discovery Education)](https://comet.discoveryeducation.com/visual-language/tokens.html)
