@@ -87,7 +87,6 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 
 A list of tools that help you generate other files from your design tokens
 
-- [Toolabs DSM](https://www.toolabs.com)
 - [Arcade](https://usearcade.com)
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Theo](https://github.com/salesforce-ux/theo)
@@ -109,6 +108,7 @@ A list of tools that help you generate other files from your design tokens
 
 A list of plugins to help you move tokens from apps to wherever you want
 ###  Figma
+- [Figma Tokens (Figma)](https://github.com/six7/figma-tokens)
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
