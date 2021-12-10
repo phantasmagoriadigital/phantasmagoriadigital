@@ -6,7 +6,7 @@
 
 https://user-images.githubusercontent.com/61656324/140605977-4fec2605-6150-4e8d-b261-749a1d7c77ee.mov
 
-- helping [@cmarkacianfrani](https://github.com/markacianfrani/figma-vrt-app) building a Visual Regression Test tool for Figma
+- building a Visual Regression Test tool for Figma
 
 #### 🌱 I’m currently learning about 
 - Petri nets
